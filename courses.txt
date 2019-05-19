@@ -3,3 +3,5 @@
 3. Spring
 4. SpringMVC
 5. Hibernate
+6. JScript
+7. Angularjs
